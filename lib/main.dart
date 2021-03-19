@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My Mood Today'),
+          title: Text('My Mood for Today'),
         ),
       ),
     );
